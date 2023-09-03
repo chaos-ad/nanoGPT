@@ -1,0 +1,6 @@
+torch
+numpy
+pandas
+tiktoken
+tqdm
+ipywidgets
